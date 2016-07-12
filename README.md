@@ -1,2 +1,5 @@
 # internationalize-views
-Internationalize the Vies
+
+Internationalize the Views
+
+[screenshot](./screenshot.png)
