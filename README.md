@@ -2,4 +2,4 @@
 
 Internationalize the Views
 
-[screenshot](./screenshot.png)
+![screenshot](./screenshot.png)
